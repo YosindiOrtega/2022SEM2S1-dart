@@ -1,1 +1,3 @@
-void main() {}
+void main() {
+  //Se deja en blanco intensionalmente
+}
